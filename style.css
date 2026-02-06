@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    margin: 1vw;
+    font-size: 5vw;
+    color: white;
+    font-weight: bold;
+}
+
+.navlink {
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar {
+    font-size: 1.5vw;
+    width: 100vw;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    color: white;
+    font-weight: bold
+}
+
+body {
+  background-color: cadetblue;
+  margin: 0px;
+  padding: 0px;
+}
